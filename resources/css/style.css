@@ -3,17 +3,33 @@ body {
     font-weight: normal;
     color: white;
     background-color: black;
+    text-align: center;
 }
 
-a {
+.cta {
     color: aquamarine;
 }
 
-p {
-    text-align: center;
-}
+
 
 h1 {
     font-size: 50px;
-    text-align: center;
 }
+
+.video-container {
+    align
+}
+
+/* Camp section*/
+
+.p-camp {
+    color: gray;
+    font-size: 21px;
+}
+
+.h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/* Cell phone section */
