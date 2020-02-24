@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana;
+    font-weight: normal;
+    color: white;
+    background-color: black;
+}
+
+.top-text {
+    font-size: 3.125rem;
+}
